@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+F:\GeekBrains\IntroCSharp\ConsoleApp\bin\Debug\ConsoleApp.exe
+F:\GeekBrains\IntroCSharp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+F:\GeekBrains\IntroCSharp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\ConsoleApp\obj\Debug\ConsoleApp.exe
+F:\GeekBrains\IntroCSharp\ConsoleApp\obj\Debug\ConsoleApp.pdb
