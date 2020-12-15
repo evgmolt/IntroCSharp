@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\RainyWinter\bin\Debug\RainyWinter.exe.config
+F:\GeekBrains\IntroCSharp\RainyWinter\bin\Debug\RainyWinter.exe
+F:\GeekBrains\IntroCSharp\RainyWinter\bin\Debug\RainyWinter.pdb
+F:\GeekBrains\IntroCSharp\RainyWinter\obj\Debug\RainyWinter.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\RainyWinter\obj\Debug\RainyWinter.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\RainyWinter\obj\Debug\RainyWinter.exe
+F:\GeekBrains\IntroCSharp\RainyWinter\obj\Debug\RainyWinter.pdb

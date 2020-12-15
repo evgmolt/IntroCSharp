@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\MonthByNumber\bin\Debug\MonthByNumber.exe.config
+F:\GeekBrains\IntroCSharp\MonthByNumber\bin\Debug\MonthByNumber.exe
+F:\GeekBrains\IntroCSharp\MonthByNumber\bin\Debug\MonthByNumber.pdb
+F:\GeekBrains\IntroCSharp\MonthByNumber\obj\Debug\MonthByNumber.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\MonthByNumber\obj\Debug\MonthByNumber.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\MonthByNumber\obj\Debug\MonthByNumber.exe
+F:\GeekBrains\IntroCSharp\MonthByNumber\obj\Debug\MonthByNumber.pdb

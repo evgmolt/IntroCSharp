@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\EvenNumber\bin\Debug\EvenNumber.exe.config
+F:\GeekBrains\IntroCSharp\EvenNumber\bin\Debug\EvenNumber.exe
+F:\GeekBrains\IntroCSharp\EvenNumber\bin\Debug\EvenNumber.pdb
+F:\GeekBrains\IntroCSharp\EvenNumber\obj\Debug\EvenNumber.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\EvenNumber\obj\Debug\EvenNumber.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\EvenNumber\obj\Debug\EvenNumber.exe
+F:\GeekBrains\IntroCSharp\EvenNumber\obj\Debug\EvenNumber.pdb

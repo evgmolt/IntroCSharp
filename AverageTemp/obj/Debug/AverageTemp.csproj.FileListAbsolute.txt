@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\AverageTemp\bin\Debug\AverageTemp.exe.config
+F:\GeekBrains\IntroCSharp\AverageTemp\bin\Debug\AverageTemp.exe
+F:\GeekBrains\IntroCSharp\AverageTemp\bin\Debug\AverageTemp.pdb
+F:\GeekBrains\IntroCSharp\AverageTemp\obj\Debug\AverageTemp.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\AverageTemp\obj\Debug\AverageTemp.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\AverageTemp\obj\Debug\AverageTemp.exe
+F:\GeekBrains\IntroCSharp\AverageTemp\obj\Debug\AverageTemp.pdb
