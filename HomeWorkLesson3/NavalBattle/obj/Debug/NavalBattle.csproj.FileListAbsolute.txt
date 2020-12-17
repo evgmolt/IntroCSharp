@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\NavalBattle\bin\Debug\NavalBattle.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\NavalBattle\bin\Debug\NavalBattle.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\NavalBattle\bin\Debug\NavalBattle.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\NavalBattle\obj\Debug\NavalBattle.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\NavalBattle\obj\Debug\NavalBattle.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\NavalBattle\obj\Debug\NavalBattle.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\NavalBattle\obj\Debug\NavalBattle.pdb

@@ -1,0 +1,6 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\PhoneBook\bin\Debug\PhoneBook.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\PhoneBook\bin\Debug\PhoneBook.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\PhoneBook\bin\Debug\PhoneBook.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\PhoneBook\obj\Debug\PhoneBook.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\PhoneBook\obj\Debug\PhoneBook.pdb

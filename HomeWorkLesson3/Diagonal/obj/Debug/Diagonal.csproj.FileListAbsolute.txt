@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\Diagonal\bin\Debug\Diagonal.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\Diagonal\bin\Debug\Diagonal.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\Diagonal\bin\Debug\Diagonal.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\Diagonal\obj\Debug\Diagonal.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\Diagonal\obj\Debug\Diagonal.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\Diagonal\obj\Debug\Diagonal.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson3\Diagonal\obj\Debug\Diagonal.pdb
