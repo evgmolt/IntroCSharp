@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\GetFullName\bin\Debug\GetFullName.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\GetFullName\bin\Debug\GetFullName.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\GetFullName\bin\Debug\GetFullName.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\GetFullName\obj\Debug\GetFullName.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\GetFullName\obj\Debug\GetFullName.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\GetFullName\obj\Debug\GetFullName.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\GetFullName\obj\Debug\GetFullName.pdb

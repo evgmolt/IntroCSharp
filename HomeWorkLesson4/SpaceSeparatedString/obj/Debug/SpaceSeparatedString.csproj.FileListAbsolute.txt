@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\SpaceSeparatedString\bin\Debug\SpaceSeparatedString.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\SpaceSeparatedString\bin\Debug\SpaceSeparatedString.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\SpaceSeparatedString\bin\Debug\SpaceSeparatedString.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\SpaceSeparatedString\obj\Debug\SpaceSeparatedString.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\SpaceSeparatedString\obj\Debug\SpaceSeparatedString.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\SpaceSeparatedString\obj\Debug\SpaceSeparatedString.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\SpaceSeparatedString\obj\Debug\SpaceSeparatedString.csprojAssemblyReference.cache

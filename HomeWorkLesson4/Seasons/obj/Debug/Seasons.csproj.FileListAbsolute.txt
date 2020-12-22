@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Seasons\bin\Debug\Seasons.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Seasons\bin\Debug\Seasons.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Seasons\bin\Debug\Seasons.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Seasons\obj\Debug\Seasons.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Seasons\obj\Debug\Seasons.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Seasons\obj\Debug\Seasons.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Seasons\obj\Debug\Seasons.pdb

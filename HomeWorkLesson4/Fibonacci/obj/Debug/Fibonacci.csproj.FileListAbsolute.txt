@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Fibonacci\bin\Debug\Fibonacci.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Fibonacci\bin\Debug\Fibonacci.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Fibonacci\bin\Debug\Fibonacci.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Fibonacci\obj\Debug\Fibonacci.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson4\Fibonacci\obj\Debug\Fibonacci.pdb
