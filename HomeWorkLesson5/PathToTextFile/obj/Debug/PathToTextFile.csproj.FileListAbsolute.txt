@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\PathToTextFile\bin\Debug\PathToTextFile.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\PathToTextFile\bin\Debug\PathToTextFile.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\PathToTextFile\bin\Debug\PathToTextFile.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\PathToTextFile\obj\Debug\PathToTextFile.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\PathToTextFile\obj\Debug\PathToTextFile.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\PathToTextFile\obj\Debug\PathToTextFile.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\PathToTextFile\obj\Debug\PathToTextFile.pdb

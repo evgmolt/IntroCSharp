@@ -1,0 +1,17 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\ToDoList.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\ToDoList.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\ToDoList.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\System.Text.Json.dll
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\System.Memory.dll
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\System.Text.Encodings.Web.dll
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\System.Numerics.Vectors.dll
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\System.Buffers.dll
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\obj\Debug\ToDoList.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\obj\Debug\ToDoList.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\ToDoList\obj\Debug\ToDoList.pdb

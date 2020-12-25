@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToBinary\bin\Debug\SaveToBinary.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToBinary\bin\Debug\SaveToBinary.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToBinary\bin\Debug\SaveToBinary.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToBinary\obj\Debug\SaveToBinary.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToBinary\obj\Debug\SaveToBinary.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToBinary\obj\Debug\SaveToBinary.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToBinary\obj\Debug\SaveToBinary.pdb

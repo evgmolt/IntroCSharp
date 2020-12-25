@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\TimeToFile\bin\Debug\TimeToFile.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\TimeToFile\bin\Debug\TimeToFile.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\TimeToFile\bin\Debug\TimeToFile.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\TimeToFile\obj\Debug\TimeToFile.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\TimeToFile\obj\Debug\TimeToFile.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\TimeToFile\obj\Debug\TimeToFile.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\TimeToFile\obj\Debug\TimeToFile.pdb

@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToTextFile\bin\Debug\SaveToTextFile.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToTextFile\bin\Debug\SaveToTextFile.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToTextFile\bin\Debug\SaveToTextFile.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToTextFile\obj\Debug\SaveToTextFile.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToTextFile\obj\Debug\SaveToTextFile.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToTextFile\obj\Debug\SaveToTextFile.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson5\SaveToTextFile\obj\Debug\SaveToTextFile.pdb

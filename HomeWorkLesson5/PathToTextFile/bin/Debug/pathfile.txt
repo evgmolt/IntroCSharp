@@ -1,0 +1,12 @@
+Без рекурсии
+qq.txt
+F:\tmp\11
+F:\tmp\22
+С рекурсей
+qq.txt
+F:\tmp\11
+file1.txt
+file2.txt
+F:\tmp\11\dir1
+F:\tmp\22
+F:\tmp\22\33
