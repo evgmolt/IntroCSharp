@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson6\TaskManager\bin\Debug\TaskManager.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson6\TaskManager\bin\Debug\TaskManager.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson6\TaskManager\bin\Debug\TaskManager.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson6\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson6\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson6\TaskManager\obj\Debug\TaskManager.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson6\TaskManager\obj\Debug\TaskManager.pdb
