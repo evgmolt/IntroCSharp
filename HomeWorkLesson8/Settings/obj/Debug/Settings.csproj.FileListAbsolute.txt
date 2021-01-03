@@ -1,0 +1,7 @@
+F:\GeekBrains\IntroCSharp\HomeWorkLesson8\Settings\obj\Debug\Settings.csprojAssemblyReference.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson8\Settings\obj\Debug\Settings.csproj.CoreCompileInputs.cache
+F:\GeekBrains\IntroCSharp\HomeWorkLesson8\Settings\bin\Debug\Settings.exe.config
+F:\GeekBrains\IntroCSharp\HomeWorkLesson8\Settings\bin\Debug\Settings.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson8\Settings\bin\Debug\Settings.pdb
+F:\GeekBrains\IntroCSharp\HomeWorkLesson8\Settings\obj\Debug\Settings.exe
+F:\GeekBrains\IntroCSharp\HomeWorkLesson8\Settings\obj\Debug\Settings.pdb
